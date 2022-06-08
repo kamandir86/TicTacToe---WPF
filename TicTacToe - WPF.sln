@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe - WPF", "TicTacToe - WPF\TicTacToe - WPF.csproj", "{3B0C5E08-7DBB-418E-BCF3-1CC3136F6605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardLogic", "BoardLogic\BoardLogic.csproj", "{18919FF7-699E-4FCC-9D26-2E2DD31E1525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0C5E08-7DBB-418E-BCF3-1CC3136F6605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C5E08-7DBB-418E-BCF3-1CC3136F6605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C5E08-7DBB-418E-BCF3-1CC3136F6605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C5E08-7DBB-418E-BCF3-1CC3136F6605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18919FF7-699E-4FCC-9D26-2E2DD31E1525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18919FF7-699E-4FCC-9D26-2E2DD31E1525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18919FF7-699E-4FCC-9D26-2E2DD31E1525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18919FF7-699E-4FCC-9D26-2E2DD31E1525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB22A79-30E0-4C9F-B80F-43A5FD4FAA99}
+	EndGlobalSection
+EndGlobal
